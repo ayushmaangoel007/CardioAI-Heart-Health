@@ -1,0 +1,25 @@
+risk_level,priority,category,recommendation,reason,action,plant_or_environment
+Low,1,Lifestyle,Regular physical activity,Supports cardiovascular fitness and general health,"Aim for regular age-appropriate activity; follow your school's or clinician's guidance.",no
+Low,2,Nutrition,Vegetable-rich meals,"A varied diet can support overall heart health.","Include a variety of vegetables, legumes and whole foods.",no
+Low,3,Nutrition,Fruit and whole grains,"Fiber-rich foods can fit a heart-healthy eating pattern.","Choose minimally processed whole grains and fruit regularly.",no
+Low,4,Environment,Outdoor greenery,Green spaces can support healthy routines and wellbeing,"Use local parks or safe green spaces for walking and recreation.",yes
+Low,5,Sleep,Consistent sleep schedule,Good sleep is part of healthy cardiovascular habits,"Maintain a regular sleep schedule appropriate for your age.",no
+Low,6,Stress,Relaxation routine,"Chronic stress can affect health behaviors and wellbeing.","Use simple techniques such as breathing exercises or quiet breaks.",no
+Low,7,Environment,Neem as a school-garden plant,"Neem is a familiar Indian tree with educational and ecological value.","Use it as a biodiversity or school-garden example; do not treat it as a BP/cholesterol medicine.",yes
+Low,8,Environment,Peepal as a school-garden plant,"Peepal is a culturally important Indian tree suitable for environmental education.","Use it as a tree-planting/biodiversity example rather than a medical treatment.",yes
+Moderate,1,Lifestyle,Increase regular physical activity,"Movement supports cardiovascular fitness and healthy body composition.","Build consistent age-appropriate activity into the week.",no
+Moderate,2,Nutrition,Reduce excess salt in meals,"Lower-sodium eating patterns can support healthy blood pressure.","Prefer fresh foods and check packaged-food labels for sodium.",no
+Moderate,3,Nutrition,Choose unsaturated fats more often,"Replacing some saturated fats with unsaturated fats can fit a heart-healthy pattern.","Use foods such as nuts, seeds and plant oils in reasonable portions.",no
+Moderate,4,Nutrition,Fiber-rich foods,Fiber is associated with healthy dietary patterns,"Choose beans, lentils, whole grains, vegetables and fruit.",no
+Moderate,5,Sleep,Consistent sleep schedule,Good sleep supports overall health,"Keep sleep and wake times reasonably consistent.",no
+Moderate,6,Stress,Stress-management routine,"Stress can influence behaviors and cardiovascular health.","Try breathing, journaling, walking or another safe relaxation activity.",no
+Moderate,7,Environment,Green walking route,"A pleasant walking environment may make regular activity easier to maintain.","Choose a safe local park or green route for routine walking.",yes
+Moderate,8,Environment,Neem for biodiversity education,"Neem can be used as an Indian native-tree teaching example.","Treat it as an environmental recommendation, not a medicine.",yes
+High,1,Clinical,Discuss the result with a qualified healthcare professional,"A high-risk demo classification should not be interpreted as a diagnosis.","Bring the measured values and the app output to a healthcare professional.",no
+High,2,Lifestyle,Use clinically appropriate activity advice,"Activity can be beneficial but should be appropriate to the person's health status.","Follow professional advice about safe activity intensity.",no
+High,3,Nutrition,Heart-healthy eating pattern,"Diet quality is an important part of cardiovascular prevention.","Focus on vegetables, legumes, whole grains and appropriate unsaturated fats.",no
+High,4,Nutrition,Limit excess sodium,"Sodium reduction can be relevant to blood-pressure management.","Use fresh foods more often and check nutrition labels.",no
+High,5,Nutrition,Choose high-fiber foods,Fiber-rich dietary patterns can support cardiometabolic health,"Include legumes, whole grains, vegetables and fruit.",no
+High,6,Sleep,Protect regular sleep,"Sleep is part of overall cardiovascular health.","Maintain a consistent sleep schedule and good sleep environment.",no
+High,7,Environment,Use green spaces for low-intensity routines,"Green spaces may make gentle activity more accessible.","Use a safe park or garden as an environment for appropriate activity.",yes
+High,8,Environment,Peepal biodiversity project,"Peepal can be included in an Indian biodiversity or school-garden project.","Present it as an environmental/cultural recommendation, not a treatment.",yes
